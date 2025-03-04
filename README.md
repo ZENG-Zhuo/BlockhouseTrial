@@ -1,5 +1,5 @@
 # Crypto Price Tracker
-
+[BlockhouseTrial Repository](https://github.com/ZENG-Zhuo/BlockhouseTrial)
 ## Assignment Overview
 This project is a part of a work trial task designed to evaluate my skills in Next.js, API integration, state management, and documentation using Docusaurus. The objective is to create a simple dashboard that displays live cryptocurrency prices.
 
